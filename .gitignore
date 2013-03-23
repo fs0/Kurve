@@ -1,0 +1,5 @@
+Kurve
+Kurve.pro
+*.o
+moc_*
+original_source.tar
